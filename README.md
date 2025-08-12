@@ -1,2 +1,1 @@
-# gamecreation
-basics
+i m rithick
